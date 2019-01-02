@@ -1,2 +1,2 @@
 # goDPAPI
-Calling DPAPI from GO lang
+Simple Go package to call DPAPI.
