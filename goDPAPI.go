@@ -1,3 +1,6 @@
+// Simple package to call DPAPI. Original code from https://gist.github.com/akamajoris/ed2f14d817d5514e7548
+// Updated by myself to support entropy.
+
 package goDPAPI
 
 import (
